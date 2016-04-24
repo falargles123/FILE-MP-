@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
     <h1><font color= purple>Rodley's Website</font></h1>
 </head><body style="background-color:lightblue;"></body>
@@ -26,5 +28,5 @@
 
 <button onclick="play()"> click </button><audio src="h"> </audio>
       
-
+</html>
 
